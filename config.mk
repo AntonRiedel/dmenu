@@ -28,4 +28,4 @@ CFLAGS   = -std=c99 -pedantic -Wall -Os $(INCS) $(CPPFLAGS)
 LDFLAGS  = $(LIBS)
 
 # compiler and linker
-CC = /usr/bin/clang
+CC = /usr/bin/tcc
