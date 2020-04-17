@@ -1,5 +1,5 @@
 *.o
-config.h
 dmenu
+config.h
 stest
 tag*
